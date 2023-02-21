@@ -1,6 +1,8 @@
 # Text-Analytics-With-R
 
-##  This code is an R Markdown document that analyzes the word frequencies and sentiment analyses of TED Talks given by Brian Cox and Terry Moore. The code begins with setting options for knitr, a package used to compile R Markdown documents. The required packages for the analysis are then loaded, including dsEssex, tidyverse, tidytext, dplyr, and ggrepel. The TED Talks dataset is then loaded from the dsEssex package.
+##  This code is an R Markdown document that analyzes the word frequencies and sentiment analyses of TED Talks given by Brian Cox and Terry Moore. 
+
+The code begins with setting options for knitr, a package used to compile R Markdown documents. The required packages for the analysis are then loaded, including dsEssex, tidyverse, tidytext, dplyr, and ggrepel. The TED Talks dataset is then loaded from the dsEssex package.
 
 The document is divided into sections. The first section provides an introduction and a brief summary of the two speakers and their TED Talks. The second section describes the methods used in the analysis, including statistical summary measures and visualizations. The third section presents the results of the analysis, including word frequency analyses and sentiment analyses. The final section concludes the report with a brief discussion of the findings, limitations, and considerations of the analysis.
 
