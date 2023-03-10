@@ -1,7 +1,7 @@
 # Text-Analytics-With-R
 
-#### This Project analyzes the word frequencies and sentiment analyses of TED Talks given by Brian Cox and Terry Moore. 
-[Click here for full project](https://raw.githubusercontent.com/Ryan-Daley/Text-Analytics-With-R/main/MA331%20-%20Midterm%20Project.pdf) 
+#### Frequency and sentiment analyses of TED Talks given by Brian Cox and Terry Moore. 
+#### [Click here for full project](https://raw.githubusercontent.com/Ryan-Daley/Text-Analytics-With-R/main/MA331%20-%20Midterm%20Project.pdf) 
 ![MA331 - SA](https://user-images.githubusercontent.com/113039811/224321604-fcc4cbfc-9364-4cd2-b731-4c8f6db7260a.jpg)
 
 The project is divided into four sections. The first section provides an introduction and a brief summary of the two speakers and their TED Talks. The second section describes the methods used in the analysis, including statistical summary measures and visualizations. The third section presents the results of the analysis, including word frequency analyses and sentiment analyses. The final section concludes the report with a brief discussion of the findings, limitations, and considerations of the analysis.
