@@ -1,4 +1,4 @@
-# Text Analytics With R
+# Ted Talks Text Analytics With R
 
 #### Frequency and sentiment analyses of TED Talks given by Brian Cox and Terry Moore. 
 #### [Click here for full project](https://raw.githubusercontent.com/Ryan-Daley/Text-Analytics-With-R/main/MA331%20-%20Midterm%20Project.pdf) 
